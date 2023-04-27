@@ -2,5 +2,6 @@ collections:
   services:
     output: true
     order:
+      - Media Resource Crew.md
       - First Aid.md
       - Students' Council.md
