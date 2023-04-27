@@ -21,14 +21,14 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
+    <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
 <img alt="ACPress" src="/images/acpress.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
-<img alt="Art Club" src="/images/art%20club.png">
+<img width="176px" alt="Art Club" src="/images/art%20club.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
-<img alt="Arts Council" src="/images/arts%20council.png">
+<img width="176px" alt="Arts Council" src="/images/arts%20council.png">
 </a></td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ description: ""
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society/">
 <img alt="Chinese Cultural Society" src="/images/chinese%20cultural%20society.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society/">
-<img alt="Debate and Oratorical Society" src="/images/arts%20council.png"></a></td>
+<img alt="Debate and Oratorical Society" src="/images/debate_%20oratorical%20society.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
