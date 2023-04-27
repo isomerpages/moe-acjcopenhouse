@@ -2,6 +2,7 @@ collections:
   sports:
     output: true
     order:
+      - Football.md
       - Floorball.md
       - Cross Country.md
       - Canoeing.md
