@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Technology Council.md
       - Science and Math Council.md
       - Pixel Labs.md
       - Malay Cultural Society.md
