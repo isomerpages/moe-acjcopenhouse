@@ -3,14 +3,6 @@ title: Clubs & Societies
 permalink: /e-open-house/cca-showcase/clubs-and-societies/
 description: ""
 ---
-![](/images/indian%20cultural%20society.png)
-![](/images/interact%20club.png)
-![](/images/malay%20cultural%20society.png)
-![](/images/pixellabs.png)
-![](/images/science%20_%20mathematics%20council.png)
-![](/images/technology%20council.png)
-![](/images/ac%20uniformed%20groups.png)
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,34 +45,40 @@ description: ""
 <img alt="Debate and Oratorical Society" src="/images/arts%20council.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
+    <td class="tg-0lax"><center><h3>Interact Club</h3></center></td>
+    <td class="tg-0lax"><center><h3>Malay Cultural Society</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society/">
+<img alt="Indian Cultural Society" src="/images/indian%20cultural%20society.png">
+</a></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/interact-club/">
+<img alt="Interact Club" src="/images/interact%20club.png">
+</a></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society/">
+<img alt="Malay Cultural Society" src="/images/malay%20cultural%20society.png">
+</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><center><h3>Pixel Labs</h3></center></td>
+    <td class="tg-0lax"><center><h3>Science and Math Council</h3></center></td>
+    <td class="tg-0lax"><center><h3>Technology Council</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/pixel-labs/">
+<img alt="Pixel Labs" src="/images/pixellabs.png"></a></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/">
+<img alt="Science and Math Council" src="/images/science%20_%20mathematics%20council.png"></a></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/technology-council/">
+<img alt="Technology Council" src="/images/technology%20council.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><center><h3>AC Uniformed Groups</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+<img alt="AC Uniformed Groups" src="/images/ac%20uniformed%20groups.png"></a></td>
   </tr>
 </tbody>
 </table>
