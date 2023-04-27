@@ -2,6 +2,7 @@ collections:
   sports:
     output: true
     order:
+      - Tennis.md
       - Table Tennis.md
       - Swimming.md
       - Squash.md
