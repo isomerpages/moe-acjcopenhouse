@@ -1,4 +1,5 @@
 collections:
   our-students-perspectives:
     output: true
-    order: []
+    order:
+      - Our Students' Perspectives.md
