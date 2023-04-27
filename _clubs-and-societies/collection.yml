@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - AC Uniformed Groups.md
       - ACpress.md
       - Art Club.md
       - Arts Council.md
