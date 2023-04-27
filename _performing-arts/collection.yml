@@ -2,9 +2,9 @@ collections:
   performing-arts:
     output: true
     order:
-      - String Ensemble.md
-      - Guitar Ensemble.md
-      - Dance Society.md
-      - Concert Band.md
-      - Choir.md
       - ACSian Theatre.md
+      - Choir.md
+      - Concert Band.md
+      - Dance Society.md
+      - Guitar Ensemble.md
+      - String Ensemble.md
