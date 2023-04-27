@@ -21,13 +21,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/J9aoXXNxxJ8" height="315" width="560"></iframe></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zbeUrrke0t0" height="315" width="560"></iframe></td>
   </tr>
   <tr>
     <td class="tg-0lax"><h2>Our ACJC</h2></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1whUqbst6CQ" height="315" width="560"></iframe></td>
   </tr>
 </tbody>
 </table>
