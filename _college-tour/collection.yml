@@ -1,4 +1,5 @@
 collections:
   college-tour:
     output: true
-    order: []
+    order:
+      - College Tour.md
