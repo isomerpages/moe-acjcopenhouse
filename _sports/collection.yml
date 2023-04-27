@@ -2,21 +2,21 @@ collections:
   sports:
     output: true
     order:
-      - Waterpolo.md
-      - Volleyball.md
-      - Track and Field.md
-      - Tennis.md
-      - Table Tennis.md
-      - Swimming.md
-      - Squash.md
-      - Softball.md
-      - Rugby.md
-      - Netball.md
-      - Hockey.md
-      - Football.md
-      - Floorball.md
-      - Cross Country.md
-      - Canoeing.md
-      - Bowling.md
-      - Basketball.md
       - Badminton.md
+      - Basketball.md
+      - Bowling.md
+      - Canoeing.md
+      - Cross Country.md
+      - Floorball.md
+      - Football.md
+      - Hockey.md
+      - Netball.md
+      - Rugby.md
+      - Softball.md
+      - Squash.md
+      - Swimming.md
+      - Table Tennis.md
+      - Tennis.md
+      - Track and Field.md
+      - Volleyball.md
+      - Waterpolo.md
