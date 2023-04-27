@@ -3,10 +3,6 @@ title: Clubs & Societies
 permalink: /e-open-house/cca-showcase/clubs-and-societies/
 description: ""
 ---
-
-![](/images/christian%20fellowship.png)
-![](/images/chinese%20cultural%20society.png)
-![](/images/debate_%20oratorical%20society.png)
 ![](/images/indian%20cultural%20society.png)
 ![](/images/interact%20club.png)
 ![](/images/malay%20cultural%20society.png)
@@ -44,14 +40,17 @@ description: ""
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><center><h3>Christian Fellowship</h3></center></td>
+    <td class="tg-0lax"><center><h3>Chinese Cultural Society</h3></center></td>
+    <td class="tg-0lax"><center><h3>Debate and Oratorical Society</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship/">
+<img alt="Christian Fellowship" src="/images/christian%20fellowship.png"></a></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society/">
+<img alt="Chinese Cultural Society" src="/images/chinese%20cultural%20society.png"></a></td>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society/">
+<img alt="Debate and Oratorical Society" src="/images/arts%20council.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
