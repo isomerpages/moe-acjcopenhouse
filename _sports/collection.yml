@@ -2,6 +2,7 @@ collections:
   sports:
     output: true
     order:
+      - Squash.md
       - Softball.md
       - Rugby.md
       - Netball.md
