@@ -1,0 +1,4 @@
+collections:
+  college-tour:
+    output: true
+    order: []
