@@ -1,4 +1,5 @@
 collections:
   general-college-life:
     output: true
-    order: []
+    order:
+      - General College Life.md
