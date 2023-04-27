@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - AC Uniformed Groups.md
-      - Technology Council.md
-      - Science and Math Council.md
-      - Pixel Labs.md
-      - Malay Cultural Society.md
-      - Interact Club.md
-      - Indian Cultural Society.md
-      - Debate and Oratorical Society.md
-      - Chinese Cultural Society.md
-      - Christian Fellowship.md
-      - Arts Council.md
-      - Art Club.md
       - ACpress.md
+      - Art Club.md
+      - Arts Council.md
+      - Christian Fellowship.md
+      - Chinese Cultural Society.md
+      - Debate and Oratorical Society.md
+      - Indian Cultural Society.md
+      - Interact Club.md
+      - Malay Cultural Society.md
+      - Pixel Labs.md
+      - Science and Math Council.md
+      - Technology Council.md
