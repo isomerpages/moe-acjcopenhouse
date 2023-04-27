@@ -2,6 +2,7 @@ collections:
   sports:
     output: true
     order:
+      - Netball.md
       - Hockey.md
       - Football.md
       - Floorball.md
