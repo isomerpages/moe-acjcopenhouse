@@ -1,4 +1,5 @@
 collections:
   cca-showcase:
     output: true
-    order: []
+    order:
+      - CCA Showcase.md
