@@ -14,8 +14,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><h2>Principal's Message</h2></td>
-    <td class="tg-0lax"><h2>General College Information</h2></td>
+		<td class="tg-0lax"><h2><center>Principal's Message</center></h2></td>
+    <td class="tg-0lax"><h2><center>General College Information</center></h2></td>
   </tr>
 </thead>
 <tbody>
@@ -24,7 +24,7 @@ description: ""
     <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zbeUrrke0t0" height="276" width="426"></iframe></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><h2>Our ACJC</h2></td>
+    <td class="tg-0lax"><h2><center>Our ACJC</center></h2></td>
   </tr>
   <tr>
     <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1whUqbst6CQ" height="276" width="426"></iframe></td>
