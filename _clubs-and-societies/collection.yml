@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Christian Fellowship.md
       - Arts Council.md
       - Art Club.md
       - ACpress.md
