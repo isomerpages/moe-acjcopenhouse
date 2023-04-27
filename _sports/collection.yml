@@ -2,5 +2,6 @@ collections:
   sports:
     output: true
     order:
+      - Bowling.md
       - Basketball.md
       - Badminton.md
