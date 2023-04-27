@@ -2,7 +2,7 @@ collections:
   services:
     output: true
     order:
-      - Photographic Society.md
-      - Media Resource Crew.md
-      - First Aid.md
       - Students' Council.md
+      - First Aid.md
+      - Media Resource Crew.md
+      - Photographic Society.md
