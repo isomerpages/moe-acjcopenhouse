@@ -14,9 +14,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><center><h3>Students' Council</h3></center></td>
-    <td class="tg-0lax"><center><h3>First Aid</h3></center></td>
-    <td class="tg-0lax"><center><h3>Library Council</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Students' Council</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>First Aid</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Library Council</h3></center></td>
   </tr>
 </thead>
 <tbody>
@@ -32,8 +32,8 @@ description: ""
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Media Resource Crew</h3></center></td>
-    <td class="tg-0lax"><center><h3>Photographic Society </h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Media Resource Crew</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Photographic Society </h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/services/media-resource-crew/">
