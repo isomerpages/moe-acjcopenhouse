@@ -3,12 +3,6 @@ title: Sports
 permalink: /e-open-house/cca-showcase/sports/
 description: ""
 ---
-![](/images/swimming.png)
-![](/images/table%20tennis.png)
-![](/images/tennis.png)
-![](/images/track%20_%20field.png)
-![](/images/volleyball.png)
-![](/images/waterpolo.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,11 +74,30 @@ description: ""
 <img alt="Squash" src="/images/squash.png"></a></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center><h3>AC Uniformed Groups</h3></center></td>
+		<td class="tg-0lax"><center><h3>Swimming</h3></center></td>
+		<td class="tg-0lax"><center><h3>Table Tennis</h3></center></td>
+		<td class="tg-0lax"><center><h3>Tennis</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
-<img alt="AC Uniformed Groups" src="/images/ac%20uniformed%20groups.png"></a></td>
+<img alt="Swimming" src="/images/swimming.png"></a></td>
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+<img alt="Table Tennis" src="/images/table%20tennis.png"></a></td>
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+<img alt="Tennis" src="/images/tennis.png"></a></td>
+  </tr>
+	<tr>
+		<td class="tg-0lax"><center><h3>Track and Field</h3></center></td>
+		<td class="tg-0lax"><center><h3>Volleyball</h3></center></td>
+		<td class="tg-0lax"><center><h3>Waterpolo</h3></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+<img alt="Track and Field" src="/images/track%20_%20field.png"></a></td>
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+<img alt="Volleyball" src="/images/volleyball.png"></a></td>
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+<img alt="Waterpolo" src="/images/waterpolo.png"></a></td>
   </tr>
 </tbody>
 </table>
