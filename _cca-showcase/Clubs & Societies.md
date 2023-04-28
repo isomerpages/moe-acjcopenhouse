@@ -3,7 +3,6 @@ title: Clubs & Societies
 permalink: /e-open-house/cca-showcase/clubs-and-societies/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -15,35 +14,28 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><center><h3>ACPress</h3></center></td>
+    <td class="tg-0lax"><center><h3>ACPress</h3></center></td>
     <td class="tg-0lax"><center><h3>Art Club</h3></center></td>
     <td class="tg-0lax"><center><h3>Arts Council</h3></center></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a height="153" width="272" href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
-<img alt="ACPress" src="/images/acpress.png">
-</a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
-<img style="width:100%" alt="Art Club" src="/images/art%20club.png">
-</a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
-<img height="153" width="272" alt="Arts Council" src="/images/arts%20council.png">
-</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><center><h3>Christian Fellowship</h3></center></td>
-    <td class="tg-0lax"><center><h3>Chinese Cultural Society</h3></center></td>
-    <td class="tg-0lax"><center><h3>Debate and Oratorical Society</h3></center></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship/">
-<img height="153" width="272" alt="Christian Fellowship" src="/images/christian%20fellowship.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society/">
-<img height="153" width="272" alt="Chinese Cultural Society" src="/images/chinese%20cultural%20society.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society/">
-<img height="153" width="272" alt="Debate and Oratorical Society" src="/images/debate_%20oratorical%20society.png"></a></td>
+    <td class="tg-0lax">
+      <a href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
+        <img height="153" width="272" alt="ACPress" src="/images/acpress.png">
+      </a>
+    </td>
+    <td class="tg-0lax">
+      <a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
+        <img height="153" width="272" alt="Art Club" src="/images/art%20club.png">
+      </a>
+    </td>
+    <td class="tg-0lax">
+      <a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
+        <img height="153" width="272" alt="Arts Council" src="/images/arts%20council.png">
+      </a>
+    </td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
