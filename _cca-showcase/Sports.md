@@ -3,12 +3,6 @@ title: Sports
 permalink: /e-open-house/cca-showcase/sports/
 description: ""
 ---
-![](/images/football.png)
-![](/images/hockey.png)
-![](/images/netball.png)
-![](/images/rugby%20.png)
-![](/images/softball.png)
-![](/images/squash.png)
 ![](/images/swimming.png)
 ![](/images/table%20tennis.png)
 ![](/images/tennis.png)
@@ -57,33 +51,33 @@ description: ""
 <img alt="Floorball" src="/images/floorball.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
-    <td class="tg-0lax"><center><h3>Interact Club</h3></center></td>
-    <td class="tg-0lax"><center><h3>Malay Cultural Society</h3></center></td>
+    <td class="tg-0lax"><center><h3>Football</h3></center></td>
+    <td class="tg-0lax"><center><h3>Hockey</h3></center></td>
+    <td class="tg-0lax"><center><h3>Netball</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society/">
-<img alt="Indian Cultural Society" src="/images/indian%20cultural%20society.png">
+<img alt="Football" src="/images/football.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/interact-club/">
-<img alt="Interact Club" src="/images/interact%20club.png">
+<img alt="Hockey" src="/images/hockey.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society/">
-<img alt="Malay Cultural Society" src="/images/malay%20cultural%20society.png">
+<img alt="Netball" src="/images/netball.png">
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Pixel Labs</h3></center></td>
-    <td class="tg-0lax"><center><h3>Science and Math Council</h3></center></td>
-    <td class="tg-0lax"><center><h3>Technology Council</h3></center></td>
+    <td class="tg-0lax"><center><h3>Rugby</h3></center></td>
+    <td class="tg-0lax"><center><h3>Softball</h3></center></td>
+    <td class="tg-0lax"><center><h3>Squash</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/pixel-labs/">
-<img alt="Pixel Labs" src="/images/pixellabs.png"></a></td>
+<img alt="Rugby" src="/images/rugby%20.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/">
-<img alt="Science and Math Council" src="/images/science%20_%20mathematics%20council.png"></a></td>
+<img alt="Softball" src="/images/softball.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/technology-council/">
-<img alt="Technology Council" src="/images/technology%20council.png"></a></td>
+<img alt="Squash" src="/images/squash.png"></a></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><h3>AC Uniformed Groups</h3></center></td>
