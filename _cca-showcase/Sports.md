@@ -50,13 +50,13 @@ description: ""
     <td class="tg-0lax"><center><h3>Netball</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/football/">
 <img alt="Football" src="/images/football.png">
 </a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/interact-club/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/hockey/">
 <img alt="Hockey" src="/images/hockey.png">
 </a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/netball/">
 <img alt="Netball" src="/images/netball.png">
 </a></td>
   </tr>
@@ -66,11 +66,11 @@ description: ""
     <td class="tg-0lax"><center><h3>Squash</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/pixel-labs/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/rugby/">
 <img alt="Rugby" src="/images/rugby%20.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/softball/">
 <img alt="Softball" src="/images/softball.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/technology-council/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/squash/">
 <img alt="Squash" src="/images/squash.png"></a></td>
   </tr>
   <tr>
@@ -79,11 +79,11 @@ description: ""
 		<td class="tg-0lax"><center><h3>Tennis</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/swimming/">
 <img alt="Swimming" src="/images/swimming.png"></a></td>
-		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/table-tennis/">
 <img alt="Table Tennis" src="/images/table%20tennis.png"></a></td>
-		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/tennis/">
 <img alt="Tennis" src="/images/tennis.png"></a></td>
   </tr>
 	<tr>
@@ -92,11 +92,11 @@ description: ""
 		<td class="tg-0lax"><center><h3>Waterpolo</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/track-and-field/">
 <img alt="Track and Field" src="/images/track%20_%20field.png"></a></td>
-		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/volleyball/">
 <img alt="Volleyball" src="/images/volleyball.png"></a></td>
-		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
+		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/waterpolo/">
 <img alt="Waterpolo" src="/images/waterpolo.png"></a></td>
   </tr>
 </tbody>
