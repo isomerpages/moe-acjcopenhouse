@@ -22,4 +22,16 @@ sections:
       url: /e-open-house/cca-showcase/clubs-and-societies/
       image: /images/cca-showcase.png
       alt: CCA showcase
+  - infopic:
+      title: General College Life
+      button: Click Here
+      url: /e-open-house/general-college-life/
+      image: /images/general-college-life.png
+      alt: General College Life
+  - infopic:
+      title: Programme Schedule
+      button: Click Here
+      url: /e-open-house/programme-schedule/
+      image: /images/programme schedule.png
+      alt: Programme Schedule
 ---
