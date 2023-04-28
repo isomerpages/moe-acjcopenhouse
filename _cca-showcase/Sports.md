@@ -3,9 +3,6 @@ title: Sports
 permalink: /e-open-house/cca-showcase/sports/
 description: ""
 ---
-![](/images/canoeing.png)
-![](/images/cross%20country.png)
-![](/images/floorball.png)
 ![](/images/football.png)
 ![](/images/hockey.png)
 ![](/images/netball.png)
@@ -47,17 +44,17 @@ description: ""
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Christian Fellowship</h3></center></td>
-    <td class="tg-0lax"><center><h3>Chinese Cultural Society</h3></center></td>
-    <td class="tg-0lax"><center><h3>Debate and Oratorical Society</h3></center></td>
+    <td class="tg-0lax"><center><h3>Canoeing</h3></center></td>
+    <td class="tg-0lax"><center><h3>Cross Country</h3></center></td>
+    <td class="tg-0lax"><center><h3>Floorball</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship/">
-<img alt="Christian Fellowship" src="/images/christian%20fellowship.png"></a></td>
+<img alt="Canoeing" src="/images/canoeing.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society/">
-<img alt="Chinese Cultural Society" src="/images/chinese%20cultural%20society.png"></a></td>
+<img alt="Cross Country" src="/images/cross%20country.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society/">
-<img alt="Debate and Oratorical Society" src="/images/debate_%20oratorical%20society.png"></a></td>
+<img alt="Floorball" src="/images/floorball.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
