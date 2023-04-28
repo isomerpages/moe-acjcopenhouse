@@ -21,14 +21,14 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
+    <td class="tg-0lax"><a height="99" width="176" href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
 <img alt="ACPress" src="/images/acpress.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
-<img width="176px" alt="Art Club" src="/images/art%20club.png">
+<img height="99" width="176" alt="Art Club" src="/images/art%20club.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
-<img width="176px" alt="Arts Council" src="/images/arts%20council.png">
+<img height="99" width="176" alt="Arts Council" src="/images/arts%20council.png">
 </a></td>
   </tr>
   <tr>
@@ -38,11 +38,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship/">
-<img alt="Christian Fellowship" src="/images/christian%20fellowship.png"></a></td>
+<img height="99" width="176" alt="Christian Fellowship" src="/images/christian%20fellowship.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society/">
-<img alt="Chinese Cultural Society" src="/images/chinese%20cultural%20society.png"></a></td>
+<img height="99" width="176" alt="Chinese Cultural Society" src="/images/chinese%20cultural%20society.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society/">
-<img alt="Debate and Oratorical Society" src="/images/debate_%20oratorical%20society.png"></a></td>
+<img height="99" width="176" alt="Debate and Oratorical Society" src="/images/debate_%20oratorical%20society.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
@@ -51,13 +51,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society/">
-<img alt="Indian Cultural Society" src="/images/indian%20cultural%20society.png">
+<img height="99" width="176" alt="Indian Cultural Society" src="/images/indian%20cultural%20society.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/interact-club/">
-<img alt="Interact Club" src="/images/interact%20club.png">
+<img height="99" width="176" alt="Interact Club" src="/images/interact%20club.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society/">
-<img alt="Malay Cultural Society" src="/images/malay%20cultural%20society.png">
+<img height="99" width="176" alt="Malay Cultural Society" src="/images/malay%20cultural%20society.png">
 </a></td>
   </tr>
   <tr>
@@ -67,18 +67,18 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/pixel-labs/">
-<img alt="Pixel Labs" src="/images/pixellabs.png"></a></td>
+<img height="99" width="176" alt="Pixel Labs" src="/images/pixellabs.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/">
-<img alt="Science and Math Council" src="/images/science%20_%20mathematics%20council.png"></a></td>
+<img height="99" width="176" alt="Science and Math Council" src="/images/science%20_%20mathematics%20council.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/technology-council/">
-<img alt="Technology Council" src="/images/technology%20council.png"></a></td>
+<img height="99" width="176" alt="Technology Council" src="/images/technology%20council.png"></a></td>
   </tr>
   <tr>
 		<td class="tg-0lax"><center><h3>AC Uniformed Groups</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
-<img alt="AC Uniformed Groups" src="/images/ac%20uniformed%20groups.png"></a></td>
+<img height="99" width="176" alt="AC Uniformed Groups" src="/images/ac%20uniformed%20groups.png"></a></td>
   </tr>
 </tbody>
 </table>
