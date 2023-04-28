@@ -21,13 +21,13 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
+    <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/sports/badminton/">
 <img alt="Badminton" src="/images/badminton.png">
 </a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/basketball/">
 <img width="176px" alt="Basketball" src="/images/basketball.png">
 </a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/bowling/">
 <img width="176px" alt="Bowling" src="/images/bowling.png">
 </a></td>
   </tr>
@@ -37,11 +37,11 @@ description: ""
     <td class="tg-0lax"><center><h3>Floorball</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/canoeing/">
 <img alt="Canoeing" src="/images/canoeing.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/cross-country/">
 <img alt="Cross Country" src="/images/cross%20country.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society/">
+    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/floorball/">
 <img alt="Floorball" src="/images/floorball.png"></a></td>
   </tr>
   <tr>
