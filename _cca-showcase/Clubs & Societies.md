@@ -11,12 +11,12 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><center><h3>ACPress</h3></center></td>
-    <td class="tg-0lax"><center><h3>Art Club</h3></center></td>
-    <td class="tg-0lax"><center><h3>Arts Council</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>ACPress</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Art Club</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Arts Council</h3></center></td>
   </tr>
 </thead>
 <tbody>
@@ -26,9 +26,9 @@ description: ""
         <img height="153" width="272" alt="ACPress" src="/images/acpress.png">
       </a>
     </td>
-    <td class="tg-0lax">
+    <td style="text-align: center;" class="tg-0lax">
       <a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
-        <img height="153" width="272" alt="Art Club" src="/images/art%20club.png">
+        <img style="max-width: 100%; height: auto;" alt="Art Club" src="/images/art%20club.png">
       </a>
     </td>
     <td class="tg-0lax">
