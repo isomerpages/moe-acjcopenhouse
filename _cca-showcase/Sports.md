@@ -22,13 +22,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/sports/badminton/">
-<img alt="Badminton" src="/images/badminton.png">
+<img style="max-width: 100%; height: auto;" alt="Badminton" src="/images/badminton.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/basketball/">
-<img width="176px" alt="Basketball" src="/images/basketball.png">
+<img style="max-width: 100%; height: auto;" alt="Basketball" src="/images/basketball.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/bowling/">
-<img width="176px" alt="Bowling" src="/images/bowling.png">
+<img style="max-width: 100%; height: auto;" alt="Bowling" src="/images/bowling.png">
 </a></td>
   </tr>
   <tr>
@@ -38,11 +38,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/canoeing/">
-<img alt="Canoeing" src="/images/canoeing.png"></a></td>
-    <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/cross-country/">
+<img style="max-width: 100%; height: auto;" alt="Canoeing" src="/images/canoeing.png"></a></td>
+    <td class="tg-0lax"><a style="max-width: 100%; height: auto;" href="/e-open-house/cca-showcase/sports/cross-country/">
 <img alt="Cross Country" src="/images/cross%20country.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/floorball/">
-<img alt="Floorball" src="/images/floorball.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Floorball" src="/images/floorball.png"></a></td>
   </tr>
   <tr>
     <td style="width: 33.33%" class="tg-0lax"><center><h3>Football</h3></center></td>
@@ -51,13 +51,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/football/">
-<img alt="Football" src="/images/football.png">
+<img style="max-width: 100%; height: auto;" alt="Football" src="/images/football.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/hockey/">
-<img alt="Hockey" src="/images/hockey.png">
+<img style="max-width: 100%; height: auto;" alt="Hockey" src="/images/hockey.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/netball/">
-<img alt="Netball" src="/images/netball.png">
+<img style="max-width: 100%; height: auto;" alt="Netball" src="/images/netball.png">
 </a></td>
   </tr>
   <tr>
@@ -67,11 +67,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/rugby/">
-<img alt="Rugby" src="/images/rugby%20.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Rugby" src="/images/rugby%20.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/softball/">
-<img alt="Softball" src="/images/softball.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Softball" src="/images/softball.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/squash/">
-<img alt="Squash" src="/images/squash.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Squash" src="/images/squash.png"></a></td>
   </tr>
   <tr>
 		<td style="width: 33.33%" class="tg-0lax"><center><h3>Swimming</h3></center></td>
@@ -80,10 +80,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/swimming/">
-<img alt="Swimming" src="/images/swimming.png"></a></td>
-		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/table-tennis/">
+<img style="max-width: 100%; height: auto;" alt="Swimming" src="/images/swimming.png"></a></td>
+		<td class="tg-0lax"><a style="max-width: 100%; height: auto;" href="/e-open-house/cca-showcase/sports/table-tennis/">
 <img alt="Table Tennis" src="/images/table%20tennis.png"></a></td>
-		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/tennis/">
+		<td class="tg-0lax"><a style="max-width: 100%; height: auto;" href="/e-open-house/cca-showcase/sports/tennis/">
 <img alt="Tennis" src="/images/tennis.png"></a></td>
   </tr>
 	<tr>
@@ -93,11 +93,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/track-and-field/">
-<img alt="Track and Field" src="/images/track%20_%20field.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Track and Field" src="/images/track%20_%20field.png"></a></td>
 		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/volleyball/">
-<img alt="Volleyball" src="/images/volleyball.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Volleyball" src="/images/volleyball.png"></a></td>
 		<td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/waterpolo/">
-<img alt="Waterpolo" src="/images/waterpolo.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Waterpolo" src="/images/waterpolo.png"></a></td>
   </tr>
 </tbody>
 </table>
