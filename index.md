@@ -34,4 +34,16 @@ sections:
       url: /e-open-house/programme-schedule/
       image: /images/programme schedule.png
       alt: Programme Schedule
+  - infopic:
+      title: College Tour
+      button: Click here
+      url: /e-open-house/college-tour/
+      image: /images/college-tour.png
+      alt: College Tour
+  - infopic:
+      title: Our Students' Perspective
+      button: Click here
+      url: /e-open-house/our-students-perspectives/
+      image: /images/our-students-perspective.png
+      alt: Our Students' Perspective
 ---
