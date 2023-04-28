@@ -14,9 +14,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><center><h3>Badminton</h3></center></td>
-    <td class="tg-0lax"><center><h3>Basketball</h3></center></td>
-    <td class="tg-0lax"><center><h3>Bowling</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Badminton</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Basketball</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Bowling</h3></center></td>
   </tr>
 </thead>
 <tbody>
@@ -32,9 +32,9 @@ description: ""
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Canoeing</h3></center></td>
-    <td class="tg-0lax"><center><h3>Cross Country</h3></center></td>
-    <td class="tg-0lax"><center><h3>Floorball</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Canoeing</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Cross Country</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Floorball</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/canoeing/">
@@ -45,9 +45,9 @@ description: ""
 <img alt="Floorball" src="/images/floorball.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Football</h3></center></td>
-    <td class="tg-0lax"><center><h3>Hockey</h3></center></td>
-    <td class="tg-0lax"><center><h3>Netball</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Football</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Hockey</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Netball</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/football/">
@@ -61,9 +61,9 @@ description: ""
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Rugby</h3></center></td>
-    <td class="tg-0lax"><center><h3>Softball</h3></center></td>
-    <td class="tg-0lax"><center><h3>Squash</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Rugby</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Softball</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Squash</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/rugby/">
@@ -74,9 +74,9 @@ description: ""
 <img alt="Squash" src="/images/squash.png"></a></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center><h3>Swimming</h3></center></td>
-		<td class="tg-0lax"><center><h3>Table Tennis</h3></center></td>
-		<td class="tg-0lax"><center><h3>Tennis</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Swimming</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Table Tennis</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Tennis</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/swimming/">
@@ -87,9 +87,9 @@ description: ""
 <img alt="Tennis" src="/images/tennis.png"></a></td>
   </tr>
 	<tr>
-		<td class="tg-0lax"><center><h3>Track and Field</h3></center></td>
-		<td class="tg-0lax"><center><h3>Volleyball</h3></center></td>
-		<td class="tg-0lax"><center><h3>Waterpolo</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Track and Field</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Volleyball</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>Waterpolo</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/sports/track-and-field/">
