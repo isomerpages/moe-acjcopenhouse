@@ -38,11 +38,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/performing-arts/dance-society/">
-<img alt="Dance Society" src="/images/dance%20society.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Dance Society" src="/images/dance%20society.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/performing-arts/guitar-ensemble/">
-<img alt="Guitar Ensemble" src="/images/guitar%20ensemble.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Guitar Ensemble" src="/images/guitar%20ensemble.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/performing-arts/string-ensemble/">
-<img alt="String Ensemble" src="/images/string%20ensemble.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="String Ensemble" src="/images/string%20ensemble.png"></a></td>
   </tr>
 </tbody>
 </table>
