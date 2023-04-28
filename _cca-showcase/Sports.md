@@ -7,6 +7,13 @@ description: ""
 ![](/images/basketball.png)
 ![](/images/bowling.png)
 ![](/images/canoeing.png)
+![](/images/cross%20country.png)
+![](/images/floorball.png)
+![](/images/football.png)
+![](/images/hockey.png)
+![](/images/netball.png)
+![](/images/rugby%20.png)
+![](/images/softball.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
