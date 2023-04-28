@@ -7,9 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: ACJC Open House
-      subtitle: 1 January 2023, 12pm to 5pm
-      background: /images/hero-banner.png
+      background: /images/hero banner.png
   - infopic:
       title: Academic Highlights
       button: Click here
