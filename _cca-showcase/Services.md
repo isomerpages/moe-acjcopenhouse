@@ -22,13 +22,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/services/students-council/">
-<img alt="Students' Council" src="/images/students_%20council.png">
+<img style="max-width: 100%; height: auto;" alt="Students' Council" src="/images/students_%20council.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/services/first-aid/">
-<img width="176px" alt="First Aid" src="/images/first%20aid.png">
+<img style="max-width: 100%; height: auto;" alt="First Aid" src="/images/first%20aid.png">
 </a></td>
     <td class="tg-0lax"><a href="">
-<img width="176px" alt="Library Council" src="/images/library%20council.png">
+<img style="max-width: 100%; height: auto;" alt="Library Council" src="/images/library%20council.png">
 </a></td>
   </tr>
   <tr>
@@ -37,9 +37,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/services/media-resource-crew/">
-<img alt="Media Resource Crew" src="/images/media%20resource%20crew.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Media Resource Crew" src="/images/media%20resource%20crew.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/services/photographic-society/">
-<img alt="Photographic Society" src="/images/photographic%20society.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Photographic Society" src="/images/photographic%20society.png"></a></td>
   </tr>
 </tbody>
 </table>
