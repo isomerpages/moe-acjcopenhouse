@@ -38,36 +38,36 @@ description: ""
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
-    <td class="tg-0lax"><center><h3>Interact Club</h3></center></td>
-    <td class="tg-0lax"><center><h3>Malay Cultural Society</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Indian Cultural Society</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Interact Club</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Malay Cultural Society</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society/">
 <img height="153" width="272" alt="Indian Cultural Society" src="/images/indian%20cultural%20society.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/interact-club/">
-<img height="153" width="272" alt="Interact Club" src="/images/interact%20club.png">
+<img style="max-width: 100%; height: auto;" alt="Interact Club" src="/images/interact%20club.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society/">
 <img height="153" width="272" alt="Malay Cultural Society" src="/images/malay%20cultural%20society.png">
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Pixel Labs</h3></center></td>
-    <td class="tg-0lax"><center><h3>Science and Math Council</h3></center></td>
-    <td class="tg-0lax"><center><h3>Technology Council</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Pixel Labs</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Science and Math Council</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Technology Council</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/pixel-labs/">
 <img height="153" width="272" alt="Pixel Labs" src="/images/pixellabs.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/">
-<img height="153" width="272" alt="Science and Math Council" src="/images/science%20_%20mathematics%20council.png"></a></td>
+<img style="max-width: 100%; height: auto;" alt="Science and Math Council" src="/images/science%20_%20mathematics%20council.png"></a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/technology-council/">
 <img height="153" width="272" alt="Technology Council" src="/images/technology%20council.png"></a></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><center><h3>AC Uniformed Groups</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>AC Uniformed Groups</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups/">
