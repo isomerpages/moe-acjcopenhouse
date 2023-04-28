@@ -15,4 +15,11 @@ sections:
       button: Click here
       url: /e-open-house/academic-highlights/
       image: /images/acdemic-highlights.png
+      alt: Academic Highlights
+  - infopic:
+      title: CCA Showcase
+      button: Click Here
+      url: /e-open-house/cca-showcase/clubs-and-societies/
+      image: /images/cca-showcase.png
+      alt: CCA showcase
 ---
