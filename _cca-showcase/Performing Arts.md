@@ -21,11 +21,11 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a height="153" width="272" href="/e-open-house/cca-showcase/performing-arts/acsian-theatre/">
+    <td class="tg-0lax"><a style="max-width: 100%; height: auto;" href="/e-open-house/cca-showcase/performing-arts/acsian-theatre/">
 <img alt="ACSian Theatre" src="/images/acsian%20theatre.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/performing-arts/choir/">
-<img width="176px" alt="Choir" src="/images/choir%20.png">
+<img style="max-width: 100%; height: auto;" alt="Choir" src="/images/choir%20.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/performing-arts/concert-band/">
 <img height="153" width="272" alt="Concert Band" src="/images/concert%20band.png">
