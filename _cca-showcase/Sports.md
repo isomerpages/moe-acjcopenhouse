@@ -3,9 +3,6 @@ title: Sports
 permalink: /e-open-house/cca-showcase/sports/
 description: ""
 ---
-![](/images/badminton.png)
-![](/images/basketball.png)
-![](/images/bowling.png)
 ![](/images/canoeing.png)
 ![](/images/cross%20country.png)
 ![](/images/floorball.png)
@@ -32,21 +29,21 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><center><h3>ACPress</h3></center></td>
-    <td class="tg-0lax"><center><h3>Art Club</h3></center></td>
-    <td class="tg-0lax"><center><h3>Arts Council</h3></center></td>
+		<td class="tg-0lax"><center><h3>Badminton</h3></center></td>
+    <td class="tg-0lax"><center><h3>Basketball</h3></center></td>
+    <td class="tg-0lax"><center><h3>Bowling</h3></center></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax"><a width="176px" href="/e-open-house/cca-showcase/clubs-and-societies/acpress/">
-<img alt="ACPress" src="/images/acpress.png">
+<img alt="Badminton" src="/images/badminton.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/art-club/">
-<img width="176px" alt="Art Club" src="/images/art%20club.png">
+<img width="176px" alt="Basketball" src="/images/basketball.png">
 </a></td>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/clubs-and-societies/arts-council/">
-<img width="176px" alt="Arts Council" src="/images/arts%20council.png">
+<img width="176px" alt="Bowling" src="/images/bowling.png">
 </a></td>
   </tr>
   <tr>
