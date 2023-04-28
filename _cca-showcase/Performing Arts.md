@@ -14,9 +14,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><center><h3>ACSian Theatre</h3></center></td>
-    <td class="tg-0lax"><center><h3>Choir</h3></center></td>
-    <td class="tg-0lax"><center><h3>Concert Band</h3></center></td>
+		<td style="width: 33.33%" class="tg-0lax"><center><h3>ACSian Theatre</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Choir</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Concert Band</h3></center></td>
   </tr>
 </thead>
 <tbody>
@@ -32,9 +32,9 @@ description: ""
 </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Dance Society</h3></center></td>
-    <td class="tg-0lax"><center><h3>Guitar Ensemble</h3></center></td>
-    <td class="tg-0lax"><center><h3>String Ensemble</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Dance Society</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>Guitar Ensemble</h3></center></td>
+    <td style="width: 33.33%" class="tg-0lax"><center><h3>String Ensemble</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/e-open-house/cca-showcase/performing-arts/dance-society/">
