@@ -1,0 +1,8 @@
+collections:
+  services:
+    output: true
+    order:
+      - Students' Council.md
+      - First Aid.md
+      - Media Resource Crew.md
+      - Photographic Society.md

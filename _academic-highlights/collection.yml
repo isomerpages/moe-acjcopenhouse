@@ -1,0 +1,6 @@
+collections:
+  academic-highlights:
+    output: true
+    order:
+      - Academic Highlights.md
+      - Subjects.md

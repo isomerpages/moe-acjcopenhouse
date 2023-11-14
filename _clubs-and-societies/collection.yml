@@ -1,0 +1,17 @@
+collections:
+  clubs-and-societies:
+    output: true
+    order:
+      - ACpress.md
+      - Art Club.md
+      - Arts Council.md
+      - Christian Fellowship.md
+      - Chinese Cultural Society.md
+      - Debate and Oratorical Society.md
+      - Indian Cultural Society.md
+      - Interact Club.md
+      - Malay Cultural Society.md
+      - Pixel Labs.md
+      - Science and Math Council.md
+      - Technology Council.md
+      - AC Uniformed Groups.md

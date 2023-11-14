@@ -1,0 +1,5 @@
+collections:
+  general-college-life:
+    output: true
+    order:
+      - General College Life.md

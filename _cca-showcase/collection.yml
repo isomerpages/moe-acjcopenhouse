@@ -1,0 +1,8 @@
+collections:
+  cca-showcase:
+    output: true
+    order:
+      - Clubs & Societies.md
+      - Performing Arts.md
+      - Services.md
+      - Sports.md

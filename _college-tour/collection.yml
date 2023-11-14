@@ -1,0 +1,5 @@
+collections:
+  college-tour:
+    output: true
+    order:
+      - College Tour.md

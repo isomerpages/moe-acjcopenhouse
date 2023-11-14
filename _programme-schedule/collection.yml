@@ -1,0 +1,5 @@
+collections:
+  programme-schedule:
+    output: true
+    order:
+      - Programme Schedule.md
